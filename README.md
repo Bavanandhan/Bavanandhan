@@ -31,8 +31,8 @@
 ---
 
 ### 📫 Let's Connect!
-- 💻 GitHub: [github.com/YourUsername](https://github.com/YourUsername)
-- 💼 LinkedIn: [linkedin.com/in/YourProfile](https://linkedin.com/in/YourProfile)
+- 💻 GitHub: https://github.com/Bavanandhan
+- 💼 LinkedIn: 
 - ✉️ Email: velbavan74@gmail.com
 
 🚀 **Let's collaborate and build something amazing!**
